@@ -234,6 +234,13 @@
             "question": "The counsellor does not need to be physically, emotionally and mentally ready to interact with the client because he is not the major focus.",
             "options": [
                 "True",
+                "False"
+            ],
+            "answer": "False"
+        },
+        {
+            "question": "The main objective of the self exploration in a counselling interview is to gain a clearer and complete description of the client's biodata.",
+            "options": [
                 "True",
                 "False"
             ],
@@ -353,8 +360,11 @@
         },
         {
             "question": "Growth-oriented counsellors stress on the development of potentialities within the individual.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "Existentially-oriented counsellors stress self-enhancement and self-fulfillment.",
