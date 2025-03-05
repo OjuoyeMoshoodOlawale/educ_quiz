@@ -138,134 +138,212 @@
                 "Self disclosure",
                 "Counsellor confidence",
                 "Client acceptance",
-                "Client confidence"
+                "Client confidence",
+                "True",
+                "False"
             ],
-            "answer": "Client acceptance"
+            "answer": "False"
         },
         {
             "question": "Guidance is part of a larger educational system.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True ",
+                "False"
+            ],
+            "answer": "True "
         },
         {
             "question": "Traditional guidance encourages adjustment or behavior modification.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "Non-directive counselling is a non-judgmental, intimate and permissive free expression and self-exploration.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "The individual needs to be well educated to know the importance of guidance and counselling in people\u2019s lives.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "Guidance is the goal-directed face-to-face interview.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "Guidance enables individuals to direct and relate their needs effectively to requirements, demands and opportunities available in the society.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "In referral, the client can be transferred to relevant specialist without his consent.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "Career development plan is a life-long affair.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "The whole counselling process start with the attending phase.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "Warmth, empathy and unconditional positive regard are shown to client at the initial interview only.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "The counsellor does not need to be physically, emotionally and mentally ready to interact with the client because he is not the major focus.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "Counsellors have all answers to the client's problems and they are expected to give client the right answers.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "The understanding phase in counselling implies that the counsellor is becoming aware of the meaning of his past experiences and present feelings.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "Working through stages of the counselling process does not require the client to clearly define the problem that eventually needs action.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "In working through stage of counselling interview, the counsellor should provide facilitative skills to provide the support needed by the client to try out new behaviours.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "Termination of the counselling process could be initiated be the counsellor, client, the situation or the combination of these elements.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "The counsellor does not need to discuss reasons for the termination of counselling process with the client especially if he is convinced that counselling goals have been achieved.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "False"
         },
         {
             "question": "The nature of counselling is to circumvent and forestall difficulties which may arise in future.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True ",
+                "False"
+            ],
+            "answer": "True "
         },
         {
             "question": "The goal of counselling is learning to adjust and responds more positively to people and situations.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "Forestalling of emotional tensions, anxieties, indecisions.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "Willing to take appropriate economic, psychological and physical risks and able to commit himself in projects, investing time and energy.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "The goal of counselling is to focus on the mechanism of change. As such, the counselee should be helped in the process of becoming what he wants to become.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "The goal of counselling is also to forestall it is through making critical decisions that personal growth is fostered.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "One of the goal of counselling is to help an individual to be willing to the primary objective of counselling is that of stimulating the individuals to evaluate, make accept and upon his choice.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True ",
+                "False"
+            ],
+            "answer": "True "
         },
         {
             "question": "Behaviorally-oriented counsellors stresses the need for the removal of undesirable behavior or reduction an irritating symptom so as to attain satisfaction and effectiveness.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True ",
+                "False"
+            ],
+            "answer": "True "
         },
         {
             "question": "Growth-oriented counsellors stress on the development of potentialities within the individual.",
@@ -274,8 +352,11 @@
         },
         {
             "question": "Existentially-oriented counsellors stress self-enhancement and self-fulfillment.",
-            "options": [],
-            "answer": null
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": "True"
         },
         {
             "question": "All are causes of marital failure EXCEPT.",
