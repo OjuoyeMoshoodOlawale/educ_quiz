@@ -1,0 +1,1257 @@
+{
+    "course": "EDUC 309: Fundamentals of Counselling",
+    "questions": [
+        {
+            "question": "What do you need in an ideal counselling environment?",
+            "options": [
+                "Infrastructures, office stationeries and counsellors",
+                "Physical infrastructures, work facilities and personnel",
+                "Physical infrastructures, psychological tests and staff",
+                "Three bedroom flat, stationeries and work facilities",
+                "None of the above."
+            ],
+            "answer": "Infrastructures, office stationeries and counsellors"
+        },
+        {
+            "question": "Who founded the client centred theory?",
+            "options": [
+                "Carl Robert",
+                "Carl Rogers",
+                "Roger Miller",
+                "Rogers Albert",
+                "Albert Ellis"
+            ],
+            "answer": "Carl Rogers"
+        },
+        {
+            "question": "The acronomy CAN was changed to CASSON at the Annual National Conference of the Counselling Association of Nigeria held at:",
+            "options": [
+                "University of Nigeria Nsukka",
+                "University of Ibadan",
+                "Bayero University Kano",
+                "Obafemi Awolowo University Ife",
+                "Ahmadu Bello University, Zaria"
+            ],
+            "answer": "Bayero University Kano"
+        },
+        {
+            "question": "Which of these is NOT a problem area of Guidance and Counselling?",
+            "options": [
+                "Psychological problem",
+                "Personal problem",
+                "Spiritual problem",
+                "Financial problem",
+                "Family problem"
+            ],
+            "answer": "Spiritual problem"
+        },
+        {
+            "question": "Crisis counselling serves:",
+            "options": [
+                "Those who find themselves in crisis situation",
+                "When a person faces an obstacle to important life goals",
+                "People who find themselves in situations involving drugs, suicide, sex, rape etc",
+                "A period of upset during which many abortive attempts at solution are made",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "Accurate empathy means \u2026",
+            "options": [
+                "Enter the internal frame of reference of the client",
+                "Unconditional positive regard",
+                "A and B",
+                "None of the above",
+                "Process of keeping the client at ease and helping him to express his feelings"
+            ],
+            "answer": "Enter the internal frame of reference of the client"
+        },
+        {
+            "question": "Which of these is NOT a principle of guidance?",
+            "options": [
+                "Guidance is a continuous process",
+                "Guidance is for everybody irrespective of age",
+                "Guidance concerns itself with the welfare of the individual and that of the society",
+                "Guidance is applied psychology"
+            ],
+            "answer": "Guidance is applied psychology"
+        },
+        {
+            "question": "Modern vocational guidance in Nigeria was introduced by \u2026..",
+            "options": [
+                "Members of the Ibadan Career Council",
+                "The Reverend Sisters from Irishland",
+                "The Federal Ministry of Education",
+                "Frank persons"
+            ],
+            "answer": "The Reverend Sisters from Irishland"
+        },
+        {
+            "question": "The client centered theory of counselling can be classified as a",
+            "options": [
+                "Cognitive theory",
+                "Affective theory",
+                "Behavioural theory",
+                "Psychoanalytic theory",
+                "Humanistic theory"
+            ],
+            "answer": "Humanistic theory"
+        },
+        {
+            "question": "Which one is NOT a basic element required for counselling environment?",
+            "options": [
+                "External conditions",
+                "Internal conditions",
+                "Counsellor conditions",
+                "Empathic conditions",
+                "Client conditions"
+            ],
+            "answer": "Empathic conditions"
+        },
+        {
+            "question": "Psychological environment for counselling means all EXCEPT one",
+            "options": [
+                "Empathy",
+                "Sympathy",
+                "Friendly",
+                "Warmness",
+                "Interest"
+            ],
+            "answer": "Sympathy"
+        },
+        {
+            "question": "All are goals of counselling EXCEPT",
+            "options": [
+                "Behaviour modifications",
+                "Achievement of positive mental health",
+                "Decision making as a goal of counselling",
+                "Accepting the client unconditionally",
+                "Resolution of problems"
+            ],
+            "answer": "Accepting the client unconditionally"
+        },
+        {
+            "question": "Which one is NOT a facilitative conditions for counselling",
+            "options": [
+                "Immediacy",
+                "Self disclosure",
+                "Counsellor confidence",
+                "Client acceptance",
+                "Client confidence"
+            ],
+            "answer": "Client acceptance"
+        },
+        {
+            "question": "Guidance is part of a larger educational system.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Traditional guidance encourages adjustment or behavior modification.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Non-directive counselling is a non-judgmental, intimate and permissive free expression and self-exploration.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The individual needs to be well educated to know the importance of guidance and counselling in people\u2019s lives.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Guidance is the goal-directed face-to-face interview.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Guidance enables individuals to direct and relate their needs effectively to requirements, demands and opportunities available in the society.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "In referral, the client can be transferred to relevant specialist without his consent.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Career development plan is a life-long affair.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The whole counselling process start with the attending phase.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Warmth, empathy and unconditional positive regard are shown to client at the initial interview only.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The counsellor does not need to be physically, emotionally and mentally ready to interact with the client because he is not the major focus.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Counsellors have all answers to the client's problems and they are expected to give client the right answers.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The understanding phase in counselling implies that the counsellor is becoming aware of the meaning of his past experiences and present feelings.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Working through stages of the counselling process does not require the client to clearly define the problem that eventually needs action.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "In working through stage of counselling interview, the counsellor should provide facilitative skills to provide the support needed by the client to try out new behaviours.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Termination of the counselling process could be initiated be the counsellor, client, the situation or the combination of these elements.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The counsellor does not need to discuss reasons for the termination of counselling process with the client especially if he is convinced that counselling goals have been achieved.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The nature of counselling is to circumvent and forestall difficulties which may arise in future.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The goal of counselling is learning to adjust and responds more positively to people and situations.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Forestalling of emotional tensions, anxieties, indecisions.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Willing to take appropriate economic, psychological and physical risks and able to commit himself in projects, investing time and energy.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The goal of counselling is to focus on the mechanism of change. As such, the counselee should be helped in the process of becoming what he wants to become.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "The goal of counselling is also to forestall it is through making critical decisions that personal growth is fostered.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "One of the goal of counselling is to help an individual to be willing to the primary objective of counselling is that of stimulating the individuals to evaluate, make accept and upon his choice.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Behaviorally-oriented counsellors stresses the need for the removal of undesirable behavior or reduction an irritating symptom so as to attain satisfaction and effectiveness.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Growth-oriented counsellors stress on the development of potentialities within the individual.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Existentially-oriented counsellors stress self-enhancement and self-fulfillment.",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "All are causes of marital failure EXCEPT.",
+            "options": [
+                "Entering marriage with cozy expectations",
+                "Strains in marriage",
+                "Absence of romantic love",
+                "Problems arising from the environment",
+                "Sexual maladjustment/disorder contingency to which the marriage contract is entered"
+            ],
+            "answer": "Sexual maladjustment/disorder contingency to which the marriage contract is entered"
+        },
+        {
+            "question": "The following are career counselling techniques EXCEPT.",
+            "options": [
+                "Occupational drawing",
+                "Career teaching techniques",
+                "In-school and out-of-school career placement",
+                "Career exploration techniques",
+                "bibliography"
+            ],
+            "answer": "In-school and out-of-school career placement"
+        },
+        {
+            "question": "All could be other causes of marital failures EXCEPT",
+            "options": [
+                "In-laws",
+                "Early marriage",
+                "Communication gap",
+                "Ill-health",
+                "Low educational level and low economic status"
+            ],
+            "answer": "Low educational level and low economic status"
+        },
+        {
+            "question": "All are various types of crises that requires counselling EXCEPT",
+            "options": [
+                "Marital",
+                "Mental",
+                "Moral",
+                "Vocational",
+                "Medical"
+            ],
+            "answer": "Medical"
+        },
+        {
+            "question": "The following are strategies towards minimizing most adolescents problems EXCEPT",
+            "options": [
+                "Parent \u2013Adolescent-Counsellor interactive",
+                "Peer cluster programme",
+                "Recreational intervention program",
+                "Information based programme",
+                "Adolescent personal issues and strategies"
+            ],
+            "answer": "Adolescent personal issues and strategies"
+        },
+        {
+            "question": "Problems areas covered by educational counselling include all EXCEPT",
+            "options": [
+                "Problems arising from entry and training requirement",
+                "Problems arising from the pupils built-up study habit",
+                "Problems associated with utilization of acquired educational skills",
+                "Problems arising from environmental contingency within which the pupils operate.",
+                "Problems arising from the individual pupils make-up"
+            ],
+            "answer": "Problems arising from entry and training requirement"
+        },
+        {
+            "question": "Drug abuse counselling means",
+            "options": [
+                "Preventing those at high risks (teenagers) before they start, and also to counsel those already in the habit",
+                "Preventing those at (secondary schools) before they start, and also counsel those already in the habit (university students)",
+                "Parents and counsellors should hold talks to discuss the problems of drug abuse affecting their children.",
+                "All of the above"
+            ],
+            "answer": "Preventing those at high risks (teenagers) before they start, and also to counsel those already in the habit"
+        },
+        {
+            "question": "Counsellors are NOT expected to be perfectly adjusted but they should however be:",
+            "options": [
+                "Formally adjusted",
+                "Humanly adjusted",
+                "Normally adjusted",
+                "Happily adjusted",
+                "Empathically adjusted"
+            ],
+            "answer": "Normally adjusted"
+        },
+        {
+            "question": "All are the general characteristics of an ideal counselor EXCEPT",
+            "options": [
+                "Stability",
+                "Suitability of purpose",
+                "Sense of humour",
+                "Social intelligence",
+                "Sincerity"
+            ],
+            "answer": "Suitability of purpose"
+        },
+        {
+            "question": "The following are the desirable qualities of a counselor EXCEPT",
+            "options": [
+                "Magnetic personality",
+                "Personal adjustment",
+                "Professional competence",
+                "Suitability of purpose",
+                "Wide range of interest"
+            ],
+            "answer": "Suitability of purpose"
+        },
+        {
+            "question": "Drug abuse means",
+            "options": [
+                "Experiencing a sense of need if deprived of drugs supply",
+                "Becoming so physically or psychologically dependent on a drug",
+                "Sporadic excessive use of drugs not conforming with or un-related to accepted medical practice",
+                "Wrong application of drugs",
+                "This is relying upon a drug to give a measurable emotional effect"
+            ],
+            "answer": "Sporadic excessive use of drugs not conforming with or un-related to accepted medical practice"
+        },
+        {
+            "question": "Which one is NOT a nature of counselling?",
+            "options": [
+                "Remunerative nature",
+                "Preventive nature",
+                "Growth oriented nature",
+                "Rehabilitative nature",
+                "Remediative nature"
+            ],
+            "answer": "Remunerative nature"
+        },
+        {
+            "question": "Which one is NOT a goal of counselling?",
+            "options": [
+                "Resolution of problems",
+                "Emphatic understanding as a goal of counselling",
+                "Decision making as goal of counselling",
+                "Achievement of positive mental health as a goal of counselling",
+                "Behavior modification as a goal of counselling"
+            ],
+            "answer": "Emphatic understanding as a goal of counselling"
+        },
+        {
+            "question": "List in logical order the five stages of the helping process",
+            "options": [
+                "Attending-genuineness-empathy-action-termination",
+                "Initial conference-exploration-understanding-action-termination",
+                "Initial interview-exploration-understanding-action-termination",
+                "Rapport-exploration-understanding-action-termination",
+                "Attending-exportation-understanding-action-termination"
+            ],
+            "answer": "Initial interview-exploration-understanding-action-termination"
+        },
+        {
+            "question": "Which one is NOT a core condition for effective counselling?",
+            "options": [
+                "Genuiness",
+                "Counselling",
+                "Concretneness",
+                "Empathy",
+                "Acceptance"
+            ],
+            "answer": "Counselling"
+        },
+        {
+            "question": "Which one is NOT another name of Directive Counselling?",
+            "options": [
+                "Counsellor centred approach",
+                "E.G. Williamson approach",
+                "Minnesota approach",
+                "Client centred approach",
+                "Trait-and-factor approach"
+            ],
+            "answer": "Client centred approach"
+        },
+        {
+            "question": "Which one is NOT another name of Non-Directive Counselling?",
+            "options": [
+                "Roger\u2019s approach",
+                "Self approach",
+                "Client centered approach",
+                "Counsellor centered approach"
+            ],
+            "answer": "Counsellor centered approach"
+        },
+        {
+            "question": "Which one is NOT a demographic variable of a counselor?",
+            "options": [
+                "Gender",
+                "Birth status",
+                "Age",
+                "Religion",
+                "Marital status"
+            ],
+            "answer": "Birth status"
+        },
+        {
+            "question": "Preventive counselling could mean all EXCEPT",
+            "options": [
+                "To remedy problem before and when they occur",
+                "To anticipate future problems and move to prevent them",
+                "Prevention is better than cure",
+                "To circumvent and forestall difficulties which may arise in future"
+            ],
+            "answer": "To remedy problem before and when they occur"
+        },
+        {
+            "question": "Which one is NOT counselling?",
+            "options": [
+                "Therapy",
+                "Psychotherapy",
+                "Advice",
+                "Assistance",
+                "Counselling"
+            ],
+            "answer": "Advice"
+        },
+        {
+            "question": "Which one is NOT a problem of Guidance and Counselling in Nigeria?",
+            "options": [
+                "Lack of orientation service to counsellors",
+                "All of them",
+                "Rivalries, little cooperation by many people",
+                "Lack of space (office accommodation)",
+                "The post is yet to be fully recognized by many people"
+            ],
+            "answer": "Lack of orientation service to counsellors"
+        },
+        {
+            "question": "In 1961 what happened?",
+            "options": [
+                "The formation of Individual Career Council  (ICC)",
+                "The formation of Ibadan Career Council (ICC)",
+                "The formation of Ibadan Counselling Council (ICC)",
+                "The formation of Ibadan Carrier council (ICC)"
+            ],
+            "answer": "The formation of Ibadan Career Council (ICC)"
+        },
+        {
+            "question": "In 1962 what happened?",
+            "options": [
+                "A group of 16 Nigerians education officials and educators visited Sweden, France and USA to stimulate the development of Guidance and Counselling in Nigeria",
+                "The formation of Counselling Association of Nigeria (CAN)",
+                "Sufficient number of Nigerian teachers be trained in Vocation Guidance (MOE, 1963, p.7)."
+            ],
+            "answer": "A group of 16 Nigerians education officials and educators visited Sweden, France and USA to stimulate the development of Guidance and Counselling in Nigeria"
+        },
+        {
+            "question": "What happened in 1963?",
+            "options": [
+                "ICC organized a conference which drew up to 158 delegates from the then 12 states of the Federation",
+                "The Home Economic bias and the city and guild options association was formed",
+                "The Home Economic bias and the city and guild association was formed at Aiyetoro",
+                "A solid beginning was made to introduce modern guidance practices at Comprehensive High School, Aiyetoro",
+                "A vocational Bereau which ran workshops for Teachers was opened at St. Theresa\u2019s College Oke-Ado, in Ibadan"
+            ],
+            "answer": "A solid beginning was made to introduce modern guidance practices at Comprehensive High School, Aiyetoro"
+        },
+        {
+            "question": "What happened in 1964?",
+            "options": [
+                "A child-guidance clinic was established under FME as a grant-aided agency that emphasized remedial work",
+                "Guidance and counselling was fully introduced in then 12 states of the Federation",
+                "A group of 16 Nigerian educators visited Sweden, France and USA to stimulate the development of Guidance and Counselling",
+                "The formation of Ibadan Career Council."
+            ],
+            "answer": "A child-guidance clinic was established under FME as a grant-aided agency that emphasized remedial work"
+        },
+        {
+            "question": "In July 1967, Ibadan Career Council organized a workshop for career masters/mistresses on vocational guidance in Ibadan which attracted participants from:",
+            "options": [
+                "The Southern parts of Nigeria",
+                "All parts of Nigeria",
+                "The Eastern parts of Nigeria",
+                "The Northern parts of Nigeria"
+            ],
+            "answer": "The Southern parts of Nigeria"
+        },
+        {
+            "question": "The 1972 conference organized by the Ibadan Career Council (ICC) generated a lot of guidance activities, one of such activities was the use of Aptitude Test for educational Placement of Secondary School children into all EXCEPT one:",
+            "options": [
+                "The technical programme for technically-oriented students",
+                "The Science programme for science-oriented students",
+                "The home-economic bias and the city and guild options",
+                "The regular secondary schools programme for university-bound students."
+            ],
+            "answer": "The Science programme for science-oriented students"
+        },
+        {
+            "question": "Counselors should understand the thoughts and feelings of the clients and should be sensitive to the verbal and non-verbal clues given by the client such as hesitation, moodiness eye message and facial expression. In other words, the counsellor should understand the client\u2019s.",
+            "options": [
+                "Body language and verbal message",
+                "Emotional feelings and emphathic understanding",
+                "Present predicament and therefore help him",
+                "Genuineness of his problem and show him respect",
+                "None of the above"
+            ],
+            "answer": "Body language and verbal message"
+        },
+        {
+            "question": "Guidance and Counselling was first mentioned in 1959 at St. Theresa\u2019s secondary school, Oke-Ado Ibadan by _________.",
+            "options": [
+                "Counsellors",
+                "Parents",
+                "The Irish Reverend Sisters",
+                "All of the above"
+            ],
+            "answer": "The Irish Reverend Sisters"
+        },
+        {
+            "question": "The following are the ways to build rapport except __________.",
+            "options": [
+                "Being well prepared for the session",
+                "Making a safe and trusting environment",
+                "Having an accepting manner",
+                "Making the client to be scared"
+            ],
+            "answer": "Making the client to be scared"
+        },
+        {
+            "question": "Clients that undergo so many problems in their homes, schools, streets and with their peer group require __________ type of Counselling.",
+            "options": [
+                "Vocational",
+                "Personal Social",
+                "Educational",
+                "a and b above"
+            ],
+            "answer": "Personal Social"
+        },
+        {
+            "question": "The Guidance programme most frequently found in modern secondary schools is organized around the following services except____________.",
+            "options": [
+                "Referral service",
+                "Placement service",
+                "Orientation service",
+                "Guidance service"
+            ],
+            "answer": "Guidance service"
+        },
+        {
+            "question": "The systems of beliefs regarding the counselling profession referred to as:",
+            "options": [
+                "Philosophy of Guidance",
+                "Guidance services",
+                "Basic principles of Guidance",
+                "None of the above."
+            ],
+            "answer": "Basic principles of Guidance"
+        },
+        {
+            "question": "Trait-and-factor approach is also known as:",
+            "options": [
+                "Eclectic counselling approach",
+                "Directive counselling approach",
+                "Client centered approach",
+                "Non-directive approach"
+            ],
+            "answer": "Directive counselling approach"
+        },
+        {
+            "question": "Counselling Association of Nigeria CAN was formed in the year ________.",
+            "options": [
+                "1977",
+                "1986",
+                "1975",
+                "1976"
+            ],
+            "answer": "1976"
+        },
+        {
+            "question": "The measurement of interpersonal preferences among the clients or among the members of a group in reference to a stated criterion is called __________.",
+            "options": [
+                "Testing techniques",
+                "Non-testing techniques",
+                "Socio-metric techniques",
+                "Biometric techniques"
+            ],
+            "answer": "Socio-metric techniques"
+        },
+        {
+            "question": "____________ service involves collecting and processing data on educational, Vocational and Personal social aspects of an individual.",
+            "options": [
+                "Orientation service",
+                "Placement service",
+                "Information service",
+                "Follow- up service"
+            ],
+            "answer": "Information service"
+        },
+        {
+            "question": "The counsellor\u2019s sensitive ability to and willingness to understand the client\u2019s thoughts, feelings and struggles from the client\u2019s point of view are referred to as:",
+            "options": [
+                "Attending",
+                "Congruence",
+                "Positive regard",
+                "Empathic understanding"
+            ],
+            "answer": "Empathic understanding"
+        },
+        {
+            "question": "The application of conditioning principles to the acquisition and strengthening of wanted behaviour and the elimination of unwanted behaviour is called ________.",
+            "options": [
+                "Positive reinforcement",
+                "Behaviour management",
+                "Counselling psychology",
+                "Treatment procedure"
+            ],
+            "answer": "Behaviour management"
+        },
+        {
+            "question": "The self-theory in psychological circles is otherwise called _______.",
+            "options": [
+                "Non-directive counselling",
+                "Counsellor centered counselling",
+                "Directive counselling",
+                "None of the above"
+            ],
+            "answer": "Non-directive counselling"
+        },
+        {
+            "question": "________ is the bedrock on which placement is based.",
+            "options": [
+                "Placement",
+                "Appraisal",
+                "Assessment",
+                "Examination"
+            ],
+            "answer": "Appraisal"
+        },
+        {
+            "question": "Placement service is divided into ________",
+            "options": [
+                "Guidance and counselling services",
+                "Information and follow-up services",
+                "Anecdotal and socio-metric techniques",
+                "In- school and out-of-school"
+            ],
+            "answer": "Information and follow-up services"
+        },
+        {
+            "question": "Limitations of tests are often found in the following aspects except __________.",
+            "options": [
+                "Choice of test",
+                "Random selection",
+                "Administration of test",
+                "Scoring of test."
+            ],
+            "answer": "Random selection"
+        },
+        {
+            "question": "Which of the following is not a test technique?",
+            "options": [
+                "Achievement",
+                "Attitude",
+                "Socio-metric",
+                "Interest"
+            ],
+            "answer": "Socio-metric"
+        },
+        {
+            "question": "All of the following are NOT general purposes of tests in Guidance and Counselling except.",
+            "options": [
+                "Advertisement",
+                "Awareness",
+                "Prediction",
+                "Justification"
+            ],
+            "answer": "Prediction"
+        },
+        {
+            "question": "The following are dos and don\u2019ts of counselling except_________.",
+            "options": [
+                "Informal consent",
+                "Safety",
+                "Clear contract",
+                "Counsellor and silence."
+            ],
+            "answer": "Safety"
+        },
+        {
+            "question": "Silence occurs during the counselling session as a result of any of the following reasonsexcept __________.",
+            "options": [
+                "The client is lost in thought",
+                "The client has reached the end of a sentence or idea.",
+                "Interest, personality and attitude of the client",
+                "Because he or she does not see any use in talking to the counsellor."
+            ],
+            "answer": "Interest, personality and attitude of the client"
+        },
+        {
+            "question": "All are personality characteristics of a counselor EXCEPT",
+            "options": [
+                "Interest in helping people",
+                "Perceptual sensitivity",
+                "Personal adjustment",
+                "Personal security",
+                "Personal decision"
+            ],
+            "answer": "Personal decision"
+        },
+        {
+            "question": "Drug mean",
+            "options": [
+                "Any substance, natural or synthetic which has the capacity to alter the structure and or functions of human organs ",
+                "Sporadic excessive use of drugs not conforming with or un-related to accepted medical practice.",
+                "Sporadic excessive use of drugs not conforming with or un-related to accepted medical practice.",
+                "Wrong application of drug."
+            ],
+            "answer": "Any substance, natural or synthetic which has the capacity to alter the structure and or functions of human organs "
+        },
+        {
+            "question": "Drug misuse means.",
+            "options": [
+                "Wrong application of drugs ",
+                "Experiencing a sense of need if derived of drugs supply.",
+                "Becoming so physically or psychologically dependent on a drug.",
+                "Sporadic excessive use of drugs not conforming with or un-related to accepted medical practice."
+            ],
+            "answer": "Wrong application of drugs "
+        },
+        {
+            "question": "Historically, guidance and counseling services were first concerned with",
+            "options": [
+                "Educational placement",
+                "Test appraisal",
+                "Personal concerns",
+                "Vocational placement "
+            ],
+            "answer": "Vocational placement "
+        },
+        {
+            "question": "Drug addiction means.",
+            "options": [
+                "Sporadic excessive use of drugs not conforming with or un-related to accepted medical",
+                "Sporadic excessive use of drugs not conforming with or un-related to accepted medical",
+                "A situation of becoming so physically or psychologically dependent on a drug, that one",
+                "All of the above."
+            ],
+            "answer": null
+        },
+        {
+            "question": "Counseling effectiveness is primarily based on the",
+            "options": [
+                "Relationship between client and counselor ",
+                "Similarity in ages between client and counselor",
+                "Counselor's self-understanding",
+                "Counselor understands of human development"
+            ],
+            "answer": "Relationship between client and counselor "
+        },
+        {
+            "question": "A primary function of a counselor in the initial stages of assisting a client in career planning",
+            "options": [
+                "Continuing education",
+                "Selecting a specific occupation",
+                "Seeking the highest possible professional level",
+                "Exploring a wide range of occupations "
+            ],
+            "answer": "Exploring a wide range of occupations "
+        },
+        {
+            "question": "A basic assumption of the client-centered counseling theory is that",
+            "options": [
+                "The counselor should assume a directive role",
+                "The counselor should assume a passive role",
+                "Every client possesses potential for growth ",
+                "Every client behavior has a distinct psychological purpose"
+            ],
+            "answer": "Every client possesses potential for growth "
+        },
+        {
+            "question": "Most adolescents seek social acceptance and recognition through contact with",
+            "options": [
+                "Other adolescents ",
+                "Teachers",
+                "Parents",
+                "Young adults",
+                "The institution or agency of employment",
+                "The professional organization",
+                "The client ",
+                "Society"
+            ],
+            "answer": "The client "
+        },
+        {
+            "question": "Which one is NOT the correct definition of adolescence?",
+            "options": [
+                "Is the period in a person\u2019s life that is between the end of childhood and the beginning of adulthood that falls roughly between the age of 11 and 20 years.",
+                "The period that falls roughly between the age of 11 and 20 years.",
+                "Is a period of storm and stress.",
+                "Is often reminded as a marginal character.",
+                "Is the period in a person\u2019s life that is between the beginning of childhood and end of"
+            ],
+            "answer": null
+        },
+        {
+            "question": "All the following are NOT the nature of counseling except:",
+            "options": [
+                "Remediative",
+                "Reorientative",
+                "Redistributive",
+                "Remediotive",
+                "Rehadiative",
+                "Rehabilative",
+                "Rehabilitative",
+                "Rehaberative"
+            ],
+            "answer": "Rehabilitative"
+        },
+        {
+            "question": "All the following are NOT the nature of counseling except:",
+            "options": [
+                "Precounslative",
+                "Preoccupative",
+                "Predirective",
+                "Preventive"
+            ],
+            "answer": "Preventive"
+        },
+        {
+            "question": "All the following are NOT the nature of counseling except:",
+            "options": [
+                "Gross oriented",
+                "Grow oriented",
+                "Growth oriented",
+                "Group oriented"
+            ],
+            "answer": "Growth oriented"
+        },
+        {
+            "question": "All the following are causes of marital failure except:",
+            "options": [
+                "Entering marriage with cosy expectations",
+                "Strains in marriage",
+                "Wife\u2019s inability to cook and dress well",
+                "Absence of romantic love"
+            ],
+            "answer": "Wife\u2019s inability to cook and dress well"
+        },
+        {
+            "question": "All the following are core conditions for effective counseling except:",
+            "options": [
+                "Empathy and Congruence",
+                "Positive regard",
+                "Warmness",
+                "Immediacy"
+            ],
+            "answer": "Immediacy"
+        },
+        {
+            "question": "All the following are facilitative conditions for effective counseling except:",
+            "options": [
+                "Confrontation",
+                "Acceptance",
+                "Self-disclosure",
+                "Counsellor\u2019s expectations"
+            ],
+            "answer": "Acceptance"
+        },
+        {
+            "question": "All the following are core conditions for effective counseling except:",
+            "options": [
+                "Unconditional positive regard",
+                "Congruence",
+                "Respect",
+                "Immediacy"
+            ],
+            "answer": "Immediacy"
+        },
+        {
+            "question": "Which one is the correct meaning of Educational counseling:",
+            "options": [
+                "The type of counseling within educational setting to help students solve their",
+                "The type of counseling arising from the individual student\u2019s make up",
+                "The type of counseling within the study habit of the students",
+                "The type of counseling within educational utilization of acquired study skill",
+                "The counseling activities associated with career issues over a life span",
+                "The counseling activities associated with world of work",
+                "The counseling activities associated with career aspirations.",
+                "The counseling activities associated with preference."
+            ],
+            "answer": "The counseling activities associated with career issues over a life span"
+        },
+        {
+            "question": "Which one is the correct meaning of marital counseling",
+            "options": [
+                "To counsel married people about living in peace",
+                "To counsel married individuals about marriage life",
+                "To counsel married couples to respect each other",
+                "To counsel married couples on how to earn a living",
+                "Is a service that provides psychotherapy, guidance or other verbal or behaviourally"
+            ],
+            "answer": null
+        },
+        {
+            "question": "A person's career includes many significant events and experiences but in which areas",
+            "options": [
+                "Career counselling",
+                "Career choice",
+                "Mentoring",
+                "All of the above"
+            ],
+            "answer": "Career choice"
+        },
+        {
+            "question": "Which of the following is a situation where it is appropriate for a therapist to breach",
+            "options": [
+                "spouse inquiry",
+                "court order",
+                "insurance company order",
+                "relative asks a question",
+                "Feedback: correct"
+            ],
+            "answer": "court order"
+        },
+        {
+            "question": "According to Rogers, the ability of the therapist to share the client's emotions is an",
+            "options": [
+                "reflection",
+                "empathy",
+                "catharsis",
+                "transference"
+            ],
+            "answer": "empathy"
+        },
+        {
+            "question": "The role of the client-centered therapist is to",
+            "options": [
+                "interpret the client's unconscious conflicts",
+                "create a safe atmosphere for clients to express feelings",
+                "confront and challenge the client and point out inconsistencies",
+                "help the client unlearn abnormal ways of behaving"
+            ],
+            "answer": "create a safe atmosphere for clients to express feelings"
+        },
+        {
+            "question": "Which of the following techniques is a client-centered therapist most likely to use?",
+            "options": [
+                "analysis",
+                "giving advice",
+                "reflection"
+            ],
+            "answer": "reflection"
+        },
+        {
+            "question": "Which of the following is the most important ingredient for successful counselling or",
+            "options": [
+                "the therapist's support of the client",
+                "the number of sessions",
+                "the type of therapy",
+                "the client's age"
+            ],
+            "answer": "the therapist's support of the client"
+        },
+        {
+            "question": "-------plays a significant role in equipping the student teacher for effectively guiding",
+            "options": [
+                "Child psychology",
+                "Clinical psychology",
+                "Developmental psychology",
+                "Educational psychology"
+            ],
+            "answer": "Educational psychology"
+        },
+        {
+            "question": "------helps the teacher to understand his pupils, whose education or training is his",
+            "options": [
+                "Child psychology",
+                "Clinical psychology",
+                "Developmental psychology",
+                "Educational psychology"
+            ],
+            "answer": "Educational psychology"
+        },
+        {
+            "question": "Warm, friendly understanding condition which is essential for an effective relationship",
+            "options": [
+                "Rapport",
+                "transference",
+                "attitude",
+                "relationship"
+            ],
+            "answer": "Rapport"
+        },
+        {
+            "question": "Behaviour modification is a type of:",
+            "options": [
+                "Behaviour therapy",
+                "Cognitive behavioural therapy.",
+                "Humanistic therapy.",
+                "Client centered therapy"
+            ],
+            "answer": "Behaviour therapy"
+        },
+        {
+            "question": "Saying whatever comes to mind, even if it seems senseless, painful, or embarrassing, is",
+            "options": [
+                "unconditional regard.",
+                "non-directive therapy.",
+                "free association",
+                "transactional analysis."
+            ],
+            "answer": "free association"
+        },
+        {
+            "question": "Carl Rogers is responsible for",
+            "options": [
+                "client-centered therapy",
+                "psychoanalysis.",
+                "directive therapy.",
+                "existential therapy."
+            ],
+            "answer": "client-centered therapy"
+        },
+        {
+            "question": "Counselling is a profession that aims to:",
+            "options": [
+                "Promote personal growth and productivity",
+                "Provide a successful diagnosis in psychopathology.",
+                "Ensure that clients are on the correct medication.",
+                "Solely address behaviour."
+            ],
+            "answer": "Promote personal growth and productivity"
+        },
+        {
+            "question": "Empathy involves:",
+            "options": [
+                "Feeling sorry for someone.",
+                "Putting others before yourself.",
+                "Putting yourself in someone else's shoes",
+                "Putting yourself before others."
+            ],
+            "answer": "Putting yourself in someone else's shoes"
+        },
+        {
+            "question": "An encounter group:",
+            "options": [
+                "Enables individuals to interact with others in a social setting.",
+                "Encourages team building.",
+                "Aids the therapist in diagnosis.",
+                "Encourages therapy and self-growth through disclosure and interaction",
+                "May need to work out their problems in the presence of others (e.g. in the case",
+                "May need comfort and support from others.",
+                "May acquire therapeutic benefit from observing and watching others.",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "Family therapy is generally used to:",
+            "options": [
+                "Improve communications between members of the family.",
+                "Resolve specific conflicts - for example between adolescents and their parents.",
+                "Attempts to understand the family as a social system.",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "Which type of psychotherapy views the process of helping others as a form of teaching?",
+            "options": [
+                "Humanistic therapy\n@@Behaviour therapy~\n@@Psychoanalytic therapy\n@@Client-centered therapy"
+            ],
+            "answer": null
+        },
+        {
+            "question": "The role of the client-centered therapist is to",
+            "options": [
+                "Interpret the client\u2019s unconscious conflicts\n@@Create a safe atmosphere for clients to express feelings~\n@@Confront and challenge the client and point out inconsistencies\n@@Help the client unlearn abnormal ways of behaving"
+            ],
+            "answer": null
+        },
+        {
+            "question": "Which of the following techniques is a client-centered therapist most likely to use?",
+            "options": [
+                "Analysis\n@@Giving advice\n@@Reflection~\n@@Aversive conditioning"
+            ],
+            "answer": null
+        },
+        {
+            "question": "A therapist who tries to decrease incongruence in the client is likely to have which approach?",
+            "options": [
+                "psychodynamic approach\n@@cognitive approach\n@@humanistic approach~\n@@behavioural approach"
+            ],
+            "answer": null
+        },
+        {
+            "question": "Which statement is consistent with Roger\u2019s theory?",
+            "options": [
+                "Self-regard is originally dependent on self concept\n@@Once achieved, self-regard can exist independently of others\u2019 opinions and attitudes~\n@@Self-regard is symptomatic of malignant egoism\n@@Self-regard stems from the negative appraisals received from others",
+                "Inflicting pain on others~\n@@Inflicting pain on self\n@@Receiving pain inflicted by others\n@@Watching other people undress"
+            ],
+            "answer": null
+        },
+        {
+            "question": "All individuals should give other individuals their:",
+            "options": [
+                "Unconditional positive regard~\n@@Unconditional surrender\n@@Unconditional stimulus\n@@All of the above"
+            ],
+            "answer": null
+        },
+        {
+            "question": "Genuineness, empathy and unconditional positive regard are used to create:",
+            "options": [],
+            "answer": null
+        },
+        {
+            "question": "Role of counselor is",
+            "options": [
+                "Remedial",
+                "preventive",
+                "educative",
+                "developmental",
+                "all the above"
+            ],
+            "answer": "all the above"
+        },
+        {
+            "question": "Study of the problems of the normal people and the prevention of the incidence of serious",
+            "options": [
+                "Hygiology",
+                "counseling",
+                "psychotherapy",
+                "behavior therapy",
+                "cognitive therapy",
+                "Rapport",
+                "transference",
+                "counter transference",
+                "attitude",
+                "relationship"
+            ],
+            "answer": "Rapport"
+        },
+        {
+            "question": "The imaginative transposing of oneself in to the thinking, feeling and acting of another and",
+            "options": [
+                "Sympathy",
+                "empathy ",
+                "rapport",
+                "counseling",
+                "psychotherapy"
+            ],
+            "answer": "empathy "
+        },
+        {
+            "question": "The warmth, respect and accepting atmosphere created by the therapist for the client in",
+            "options": [
+                "Empathy",
+                "openness",
+                "unconditional positive regard ",
+                "clarity",
+                "subjectivity"
+            ],
+            "answer": "unconditional positive regard "
+        },
+        {
+            "question": "The genuine, open and honest response of the therapist to the client",
+            "options": [
+                "Empathy",
+                "openness",
+                "unconditional positive regard",
+                "clarity",
+                "authenticity"
+            ],
+            "answer": "authenticity"
+        },
+        {
+            "question": "Which one is the correct meaning of rehabilitative counseling",
+            "options": [
+                "Rehabilitative counseling is mainly concerned with the people whose life have been disrupted as result of accident, wars, natural catastrophes and or sudden changes in social or economic status ",
+                "Rehabilitative counseling is mainly concerned with problems of family, financial, academic and environmental issues.",
+                "Is a method of counseling mad people.",
+                "Is a process of advising jobless individuals."
+            ],
+            "answer": "Rehabilitative counseling is mainly concerned with the people whose life have been disrupted as result of accident, wars, natural catastrophes and or sudden changes in social or economic status "
+        }
+    ]
+}

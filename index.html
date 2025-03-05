@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-blue-50 flex justify-center items-center min-h-screen p-4">
+    <div class="w-full max-w-lg bg-white shadow-lg rounded-lg p-6">
+      <h1 class="text-xl font-bold text-center text-blue-700">
+        EDUC 309: Fundamentals of Counselling
+      </h1>
+      <p class="text-center text-gray-600">Time Allowed: 45 minutes</p>
+
+      <div id="quiz-container"></div>
+
+      <button
+        onclick="restartQuiz()"
+        class="w-full mt-4 bg-yellow-500 text-white p-2 rounded hover:bg-yellow-600"
+      >
+        Restart Quiz
+      </button>
+    </div>
+
+    <script>
+      const quizData = []; // Load full dataset dynamically
+      fetch("educ_309_full_questions.json")
+        .then((response) => response.json())
+        .then((data) => {
+          quizData.push(...data.questions);
+          loadQuiz();
+        })
+        .catch((error) => console.error("Error loading questions:", error));
+
+      function loadQuiz() {
+        const quizContainer = document.getElementById("quiz-container");
+        quizContainer.innerHTML = "";
+
+        quizData.forEach((item, index) => {
+          let questionBlock = document.createElement("div");
+          questionBlock.className = "mt-4 p-4 border rounded bg-gray-100";
+
+          let questionTitle = document.createElement("h2");
+          questionTitle.className = "font-semibold text-blue-800";
+          questionTitle.innerText = `${index + 1}. ${item.question}`;
+          questionBlock.appendChild(questionTitle);
+
+          item.options.forEach((option) => {
+            let button = document.createElement("button");
+            button.className =
+              "block w-full text-left mt-2 p-2 bg-white border rounded hover:bg-gray-200";
+            button.innerText = option;
+            button.onclick = () => checkAnswer(button, item.answer, option);
+            questionBlock.appendChild(button);
+          });
+
+          let resultMessage = document.createElement("p");
+          resultMessage.className = "mt-2 font-bold hidden";
+          questionBlock.appendChild(resultMessage);
+
+          quizContainer.appendChild(questionBlock);
+        });
+      }
+
+      function checkAnswer(button, correctAnswer, selectedAnswer) {
+        let parent = button.parentElement;
+        let buttons = parent.querySelectorAll("button");
+        let resultMessage = parent.querySelector("p");
+
+        buttons.forEach((btn) => {
+          btn.disabled = true;
+          if (btn.innerText === correctAnswer) {
+            btn.classList.add("bg-green-500", "text-white");
+          } else {
+            btn.classList.add("bg-gray-300");
+          }
+        });
+
+        if (selectedAnswer === correctAnswer) {
+          resultMessage.innerText = "Correct!";
+          resultMessage.classList.add("text-green-600");
+        } else {
+          resultMessage.innerText = `Wrong! Correct Answer: ${correctAnswer}`;
+          resultMessage.classList.add("text-red-600");
+        }
+
+        resultMessage.classList.remove("hidden");
+      }
+
+      function restartQuiz() {
+        loadQuiz();
+      }
+    </script>
+  </body>
+</html>
