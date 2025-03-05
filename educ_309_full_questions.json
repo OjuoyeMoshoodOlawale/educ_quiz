@@ -138,7 +138,13 @@
                 "Self disclosure",
                 "Counsellor confidence",
                 "Client acceptance",
-                "Client confidence",
+                "Client confidence"
+            ],
+            "answer": "Client acceptance"
+        },
+        {
+            "question": "Guidance service in schools are advice-giving bureau where youths may obtain ready-made answers to their problems.",
+            "options": [
                 "True",
                 "False"
             ],
