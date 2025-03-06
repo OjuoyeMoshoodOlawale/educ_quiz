@@ -909,10 +909,10 @@
             "options": [
                 "Sporadic excessive use of drugs not conforming with or un-related to accepted medical",
                 "Sporadic excessive use of drugs not conforming with or un-related to accepted medical",
-                "A situation of becoming so physically or psychologically dependent on a drug, that one",
+                "A situation of becoming so physically or psychologically dependent on a drug, that one cannot live usefully without it ",
                 "All of the above."
             ],
-            "answer": null
+            "answer": "A situation of becoming so physically or psychologically dependent on a drug, that one cannot live usefully without it "
         },
         {
             "question": "Counseling effectiveness is primarily based on the",
@@ -950,7 +950,13 @@
                 "Other adolescents ",
                 "Teachers",
                 "Parents",
-                "Young adults",
+                "Young adults"
+            ],
+            "answer": "Other adolescents "
+        },
+        {
+            "question": "The ethical standards code of the American Counseling Association (ACA) stresses that a",
+            "options": [
                 "The institution or agency of employment",
                 "The professional organization",
                 "The client ",
@@ -965,9 +971,9 @@
                 "The period that falls roughly between the age of 11 and 20 years.",
                 "Is a period of storm and stress.",
                 "Is often reminded as a marginal character.",
-                "Is the period in a person\u2019s life that is between the beginning of childhood and end of"
+                "Is the period in a person\u2019s life that is between the beginning of childhood and end of adulthood "
             ],
-            "answer": null
+            "answer": "Is the period in a person\u2019s life that is between the beginning of childhood and end of adulthood "
         },
         {
             "question": "All the following are NOT the nature of counseling except:",
@@ -975,7 +981,13 @@
                 "Remediative",
                 "Reorientative",
                 "Redistributive",
-                "Remediotive",
+                "Remediotive"
+            ],
+            "answer": "Remediative"
+        },
+        {
+            "question": "All the following are NOT the nature of counseling except:",
+            "options": [
                 "Rehadiative",
                 "Rehabilative",
                 "Rehabilitative",
@@ -1046,10 +1058,16 @@
         {
             "question": "Which one is the correct meaning of Educational counseling:",
             "options": [
-                "The type of counseling within educational setting to help students solve their",
+                "The type of counseling within educational setting to help students solve their problems",
                 "The type of counseling arising from the individual student\u2019s make up",
                 "The type of counseling within the study habit of the students",
-                "The type of counseling within educational utilization of acquired study skill",
+                "The type of counseling within educational utilization of acquired study skill"
+            ],
+            "answer": "The type of counseling within educational setting to help students solve their problems"
+        },
+        {
+            "question": "Which one is the correct meaning of career counseling",
+            "options": [
                 "The counseling activities associated with career issues over a life span",
                 "The counseling activities associated with world of work",
                 "The counseling activities associated with career aspirations.",
@@ -1064,9 +1082,9 @@
                 "To counsel married individuals about marriage life",
                 "To counsel married couples to respect each other",
                 "To counsel married couples on how to earn a living",
-                "Is a service that provides psychotherapy, guidance or other verbal or behaviourally"
+                "Is a service that provides psychotherapy, guidance or other verbal or behaviourally assistance to alleviate, resolve or to avoid marital family conflict "
             ],
-            "answer": null
+            "answer": "Is a service that provides psychotherapy, guidance or other verbal or behaviourally assistance to alleviate, resolve or to avoid marital family conflict "
         },
         {
             "question": "A person's career includes many significant events and experiences but in which areas",
@@ -1214,7 +1232,13 @@
                 "Enables individuals to interact with others in a social setting.",
                 "Encourages team building.",
                 "Aids the therapist in diagnosis.",
-                "Encourages therapy and self-growth through disclosure and interaction",
+                "Encourages therapy and self-growth through disclosure and interaction"
+            ],
+            "answer": "Encourages therapy and self-growth through disclosure and interaction"
+        },
+        {
+            "question": "Group therapy can be advantageous when an individual:",
+            "options": [
                 "May need to work out their problems in the presence of others (e.g. in the case",
                 "May need comfort and support from others.",
                 "May acquire therapeutic benefit from observing and watching others.",
@@ -1235,50 +1259,82 @@
         {
             "question": "Which type of psychotherapy views the process of helping others as a form of teaching?",
             "options": [
-                "Humanistic therapy\n@@Behaviour therapy~\n@@Psychoanalytic therapy\n@@Client-centered therapy"
+                "Humanistic therapy",
+                "Behaviour therapy",
+                "Psychoanalytic therapy",
+                "Client-centered therapy"
             ],
-            "answer": null
+            "answer": "Behaviour therapy"
         },
         {
             "question": "The role of the client-centered therapist is to",
             "options": [
-                "Interpret the client\u2019s unconscious conflicts\n@@Create a safe atmosphere for clients to express feelings~\n@@Confront and challenge the client and point out inconsistencies\n@@Help the client unlearn abnormal ways of behaving"
+                "Interpret the client\u2019s unconscious conflicts",
+                "Create a safe atmosphere for clients to express feelings",
+                "Confront and challenge the client and point out inconsistencies",
+                "Help the client unlearn abnormal ways of behaving"
             ],
-            "answer": null
+            "answer": "Create a safe atmosphere for clients to express feelings"
         },
         {
-            "question": "Which of the following techniques is a client-centered therapist most likely to use?",
+            "question": "Which of the following techniques is a client-centered therapist most likely to use",
             "options": [
-                "Analysis\n@@Giving advice\n@@Reflection~\n@@Aversive conditioning"
+                "Analysis",
+                "Giving advice",
+                "Reflection",
+                "Aversive conditioning"
             ],
-            "answer": null
+            "answer": "Reflection"
         },
         {
             "question": "A therapist who tries to decrease incongruence in the client is likely to have which approach?",
             "options": [
-                "psychodynamic approach\n@@cognitive approach\n@@humanistic approach~\n@@behavioural approach"
+                "psychodynamic approach",
+                "cognitive approach",
+                "humanistic approach",
+                "behavioural approach"
             ],
-            "answer": null
+            "answer": "humanistic approach"
         },
         {
             "question": "Which statement is consistent with Roger\u2019s theory?",
             "options": [
-                "Self-regard is originally dependent on self concept\n@@Once achieved, self-regard can exist independently of others\u2019 opinions and attitudes~\n@@Self-regard is symptomatic of malignant egoism\n@@Self-regard stems from the negative appraisals received from others",
-                "Inflicting pain on others~\n@@Inflicting pain on self\n@@Receiving pain inflicted by others\n@@Watching other people undress"
+                "Self-regard is originally dependent on self concept",
+                "Once achieved, self-regard can exist independently of others\u2019 opinions and attitudes",
+                "Self-regard is symptomatic of malignant egoism",
+                "Self-regard stems from the negative appraisals received from others"
             ],
-            "answer": null
+            "answer": "Once achieved, self-regard can exist independently of others\u2019 opinions and attitudes"
+        },
+        {
+            "question": "A sadist receives sexual pleasure from",
+            "options": [
+                "Inflicting pain on others",
+                "Inflicting pain on self",
+                "Receiving pain inflicted by others",
+                "Watching other people undress"
+            ],
+            "answer": "Inflicting pain on others"
         },
         {
             "question": "All individuals should give other individuals their:",
             "options": [
-                "Unconditional positive regard~\n@@Unconditional surrender\n@@Unconditional stimulus\n@@All of the above"
+                "Unconditional positive regard",
+                "Unconditional surrender",
+                "Unconditional stimulus",
+                "All of the above"
             ],
-            "answer": null
+            "answer": "Unconditional positive regard"
         },
         {
             "question": "Genuineness, empathy and unconditional positive regard are used to create:",
-            "options": [],
-            "answer": null
+            "options": [
+                "Conditions of growth",
+                "Conditions of worth",
+                "Conditions of release",
+                "Conditions of love"
+            ],
+            "answer": "Conditions of growth"
         },
         {
             "question": "Role of counselor is",
@@ -1298,7 +1354,13 @@
                 "counseling",
                 "psychotherapy",
                 "behavior therapy",
-                "cognitive therapy",
+                "cognitive therapy"
+            ],
+            "answer": "Hygiology"
+        },
+        {
+            "question": "Warm, friendly understanding condition which is essential for an effective relationship",
+            "options": [
                 "Rapport",
                 "transference",
                 "counter transference",
